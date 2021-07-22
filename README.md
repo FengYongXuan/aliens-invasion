@@ -2,6 +2,8 @@
  a small game
  
  # Quick start
+ install pycharm
+ 
  install pygame
  
  run alien_invasion.py
