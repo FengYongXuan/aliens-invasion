@@ -8,7 +8,7 @@
  
  run alien_invasion.py
  
- #Rules for game
+ # Rules for game
  
  if you want to start the game, please click the button 'Play' in the middle of screen.
  
