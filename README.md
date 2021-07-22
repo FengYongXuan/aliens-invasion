@@ -8,6 +8,8 @@
  
  run alien_invasion.py
  
+ #Rules for game
+ 
  if you want to start the game, please click the button 'Play' in the middle of screen.
  
  press the space key, you can fire bullets.
